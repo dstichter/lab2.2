@@ -1,0 +1,35 @@
+header {
+  border: 1px solid black;
+  height: 300px;
+  background-image:url("http://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/v2_article_large/public/2015/06/12/fallout-4-logo.JPG")
+  
+  }
+nav {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  border: 1px solid black;
+
+}
+
+p {
+  position: relative;
+  left: 10px;
+}
+section {
+  position:static;
+}
+
+.images{
+  width: auto;
+  height: 200px;
+}
+
+
+
+
+
+
+
+
+
